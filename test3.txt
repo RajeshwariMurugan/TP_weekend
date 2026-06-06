@@ -1,0 +1,1 @@
+The GitHub Flow is a lightweight, branch-based workflow designed to support continuous deployment and frequent shipping. It prioritizes a simple, clean branching model where the main branch is always stable, deployable, and production-ready.
